@@ -1,7 +1,6 @@
 
 # Realtime Chat Application
 
-Demo: [https://anuragtomar2510-chat-app.netlify.app/]
 
 It is a Realtime Chat Application in which user can join a room with username and roomname. When a user joins a room, app notifies other users who are already in the room. Then, user can Chat, in realtime, with other users in the room. App also display all the users present in the room. Users can also leave the room as per their wish. When a user leave a room, app notifies other users in the room.
 
